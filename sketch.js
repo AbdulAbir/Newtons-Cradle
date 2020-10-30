@@ -62,7 +62,7 @@ function draw() {
   sling4.display();
   sling5.display();
 
-  drawSprites();
+ 
 
  
 }
